@@ -64,9 +64,9 @@ The app utilizes the following APIs from **RapidAPI**:
 
 ## Author
 **Ali aburas**  
-📧 Email: your-email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
-🔗 [GitHub](https://github.com/yourusername)  
+📧 Email: aliaburas.napco@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/ali-aburas-8b8870332/)  
+🔗 [GitHub](https://github.com/aburasCode)  
 
 ---
 🚀 **Happy Coding!**
